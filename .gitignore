@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+
+# Ignore content files
+*.pptx
+*.pdf
+*/Content/
+
+# Ignore notebooks
+1-Basic-mathematics/probability_and_statistics.ipynb
